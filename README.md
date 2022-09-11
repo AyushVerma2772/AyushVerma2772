@@ -40,13 +40,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"alt="bootstrap" width="40" height="40" title="Python" />
 </div>
 <br>
-<h3 align="left">Python Libraries:</h3>
-<ul>
-    <li><h4>Numpy</h4></li>
-    <li><h4>Pandas</h4></li>
-    <li><h4>Matplotlib</h4></li>
-    <li><h4>Tkinter</h4></li>
-</ul>
+<h3 align="left">Python Libraries:</h3><h4>Numpy, Pandas, Matplotlib & Tkinter</h4>
 </p>
 
 
