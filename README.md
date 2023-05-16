@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **ayushhathiwan@gmail.com**
 
-- My portfolio <a href="https://ayushverma.live" target="_blank">ayushverma.live</a>
+- 🧑🏻‍💻 My portfolio <a href="https://ayushverma.live" target="_blank">ayushverma.live</a>
 
 <h3 align="left">Connect with me:</h3>
 
