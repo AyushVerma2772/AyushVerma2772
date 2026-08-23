@@ -2,15 +2,6 @@
 
 <h3 align="center">Data Engineer | Azure Data Engineering | Databricks | PySpark | ETL/ELT</h3>
 
-<p align="center">
-  <a href="https://linkedin.com/in/ayushh-verma">
-    <img src="https://img.shields.io/badge/LinkedIn-Ayush%20Verma-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="mailto:ayushhathiwan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ayushhathiwan%40gmail.com-red?style=flat&logo=gmail" />
-  </a>
-</p>
-
 ---
 
 ### 👨‍💻 About Me
@@ -19,11 +10,6 @@ I'm a **Data Engineer** with 2+ years of experience building, optimizing, and mo
 
 I'm currently working with **Azure Databricks, PySpark, Informatica, SQL, and Azure Data Lake** to build scalable and reliable data solutions.
 
-- 🔭 Currently working as a **Software Engineer – Data Engineering**
-- ☁️ Working with **Microsoft Azure & Azure Databricks**
-- ⚡ Experienced in **ETL/ELT pipeline development and migration**
-- 📊 Interested in **Data Engineering, Big Data & Cloud Data Platforms**
-- 🐍 Strong with **Python, PySpark & SQL**
 
 ---
 
@@ -64,41 +50,6 @@ I'm currently working with **Azure Databricks, PySpark, Informatica, SQL, and Az
   <img src="https://img.shields.io/badge/Databricks%20Lakehouse-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
-#### 🏗️ Data Engineering Concepts
-
-- ETL / ELT Pipeline Design
-- Data Warehousing
-- Data Migration
-- Medallion Architecture
-- Bronze / Silver / Gold Layers
-- Delta Lake
-- Data Modeling
-- Data Governance
-- Unity Catalog
-- Query Optimization
-- Batch Data Processing
-- Structured & Semi-Structured Data
-
-#### 🔧 Tools & Version Control
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-</p>
-
----
-
-### 📈 What I'm Currently Learning
-
-- Advanced PySpark
-- Databricks & Delta Lake
-- Data Engineering Design Patterns
-- Azure Data Engineering
-- Data Pipeline Optimization
-- Advanced SQL
-- Data Architecture & System Design
 
 ---
 
